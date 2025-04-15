@@ -1,16 +1,1 @@
-[submodule "camptocamp/smartcamp_core"]
-	path = camptocamp/smartcamp_core
-	url = git@github.com:camptocamp/smartcamp_core.git
-	branch = 17.0
-	
 
-[submodule "OCA/account-invoice-reporting"]
-	path = OCA/account-invoice-reporting
-	url = git@github.com:OCA/account-invoice-reporting.git
-	branch = 17.0
-
-
-[submodule "OCA/stock-logistics-workflow"]
-	path = OCA/stock-logistics-workflow
-	url = git@github.com:OCA/stock-logistics-workflow.git
-	branch = 17.0
